@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**shahd-askr/shahd-askr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi👋, I'm Shahd
 
-Here are some ideas to get you started:
+Be the change that you wish to see in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+>  * Student at the Faculty of Computers and Information, Mansoura University.
+> * Actively focusing on self-development and continuous learning alongside my academic studies.
+> * Dedicated to building a strong foundation in programming and problem-solving.
+
+
+## 🌱 What I'm Learning & Exploring
+> 
+> 
+> * *Programming Languages:* C++ and C# .
+> * *Web Development:* Currently learning Front-End .
+> * *Tools:* Git & GitHub & Visual Studio Code .
+> 
+> 
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shahd-askr)
+
+[![Email](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shee2225490@gmail.com)
+
+
+
